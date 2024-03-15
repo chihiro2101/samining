@@ -28,10 +28,10 @@ def download_file_from_github(url, file_path):
     api_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/contents/{file_path}"
     response = requests.get(api_url)
 
-    import pdb;pdb.set_trace()
+    # import pdb;pdb.set_trace()
     
     if response.status_code == 404:
-        file_path = "README.md"
+        file_path = "README.rst"
         api_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/contents/{file_path}"
         response = requests.get(api_url)
 
@@ -61,5 +61,5 @@ with open(input_file_name, 'r') as f:
 # Loop through each URL, fetch README content and save to a file
 for url in urls:
     github_url = url.split(",")[0].strip("\"")
-    file_path = "README.rst"
+    file_path = "README.md"
     download_file_from_github(github_url, file_path)
