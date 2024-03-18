@@ -4,7 +4,7 @@ openai.api_key = "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"
 model_id = "gpt-3.5-turbo"
 
 
-file_path = 'samining/readmefiles/aadl-translator_README.txt'
+file_path = 'readmefiles/aadl-translator_README.txt'
 # Open the file in read mode ('r') and read its contents
 with open(file_path, 'r') as file:
   content = file.read()
