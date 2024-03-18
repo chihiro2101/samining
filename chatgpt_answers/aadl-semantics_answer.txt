@@ -1,0 +1,1 @@
+The software architecture used in this repository is based on the K framework, which is a rewrite-based executable semantic framework for defining formal semantics of programming languages and models. The AADL semantics in this repository are described using formal executable semantics in K.

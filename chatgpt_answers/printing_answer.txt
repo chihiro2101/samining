@@ -1,0 +1,9 @@
+The software architecture used in this repository is as follows:
+
+1. Centralized Printing System:
+- All public stations print to a single cups-pdf queue, allowing staff to send generated PDFs to the printer of their choice when patrons are ready. This suggests a centralized printing system architecture.
+
+2. Airprint and Patron Services:
+- Airprint and other patron services such as fax are provided at various locations, indicating a client-server architecture where the client devices can interact with the server for printing and fax services.
+
+Overall, the repository seems to be using a combination of centralized printing system architecture and client-server architecture to facilitate public printing services at AADL.

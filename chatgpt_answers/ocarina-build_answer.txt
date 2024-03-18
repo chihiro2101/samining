@@ -1,0 +1,3 @@
+The software architectures used in this repository are:
+- Shell architecture: The `build_ocarina.sh` script is written in shell script and contains logic to coordinate various activities such as fetching source code, compiling, testing, packaging, and uploading archives.
+- Client-server architecture: The script interacts with various components such as fetching source code repositories, compiling Ocarina, running testsuites, and packaging the software. This can be seen as a client-server architecture where the script acts as the client interacting with different servers (components) to perform specific tasks.

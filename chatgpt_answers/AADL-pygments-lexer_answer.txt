@@ -1,0 +1,3 @@
+1. The README file mentions the use of Pygments lexer for the AADL language, which indicates the use of a Monolithic architecture. Pygments lexer is a single module or component that performs the task of syntax highlighting for the AADL language.
+
+2. The README file also mentions running `python ./setup.py build install` for installation, which suggests that the repository follows a Layered architecture where the installation process is separated from the core functionality of the AADL lexer. The setup script handles the build and installation process in a modular and structured manner.

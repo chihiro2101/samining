@@ -1,0 +1,1 @@
+The software architectures used in this repository are AADL (Architecture Analysis and Design Language) for mapping FMU to AADL package, and integration with Ocarina using makefiles and C compilation units.

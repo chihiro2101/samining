@@ -1,0 +1,7 @@
+Based on the provided information in the README file, it is not explicitly stated which software architectures are used in this repository. However, since the project is an Android Developer practice project, some common software architectures that could potentially be used include:
+
+1. Model-View-Controller (MVC) architecture
+2. Model-View-Presenter (MVP) architecture
+3. Model-View-ViewModel (MVVM) architecture
+
+Without further details or code examples, it is difficult to determine the specific architecture used in this repository.

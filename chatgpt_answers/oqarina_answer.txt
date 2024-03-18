@@ -1,0 +1,11 @@
+The software architectures used in this repository are:
+
+1. **Layered Architecture**: The directory structure indicates a clear separation of components into different layers such as examples, extraction, src, testsuite, and tools. This follows a layered architecture pattern to organize the project's codebase.
+
+2. **Client-Server Architecture**: The repository includes Coq sources for AADL mechanization, which can be seen as the server-side logic. The user interacts with these sources using tools like VSCode or Proof General, which act as clients to interact with the server-side logic.
+
+3. **Event-Driven Architecture**: The behavioral semantics of AADL are formally defined in the Coq mechanization. This can be seen as an event-driven architecture where events trigger specific actions based on the formalized semantics.
+
+4. **Component-Based Architecture**: The use of various Coq packages like coq-json, coq-simple-io, coq-ext-lib, and others indicate a component-based architecture where different reusable components are used to enhance the functionality of the system.
+
+Overall, the repository uses a combination of layered, client-server, event-driven, and component-based architectures to mechanize AADL in Coq effectively.

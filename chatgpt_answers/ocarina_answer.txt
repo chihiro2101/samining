@@ -1,5 +1,5 @@
-The software architecture used in this repository includes a front-end that supports AADLv2 language from the AS5506C standard, the Behavioral annex from the AS5506/1 standard, and the ARINC653 and the EMV2 annexes from the AS5506/1A standard. 
-
-Additionally, the back-end architecture supports code generation towards the AADL runtime PolyORB-HI/Ada and PolyORB-HI/C, and ARINC653 compliant APEX. It also includes WCET analysis using Bound-T, scheduling analysis using Cheddar and MAST, model checking using Petri Net Tina and LNT, and constraint analysis using the REAL annex language.
-
-The integration with AADLib library of AADL components, as well as embedding in AADL editors like OSATE and AADL Inspector, are also part of the software architecture described in this README file.
+The software architectures used in this repository include:
+1. Front-end supporting AADLv2 language, the Behavioral annex, and ARINC653 and EMV2 annexes.
+2. Back-end supporting code generation towards AADL runtime, WCET analysis, scheduling analysis, model checking, and constraint analysis.
+3. Integration with the AADLib library of AADL components.
+4. Embedding in AADL editors such as OSATE using the OSATE2 plugin, AADL Inspector, and TASTE by the European Space Agency.

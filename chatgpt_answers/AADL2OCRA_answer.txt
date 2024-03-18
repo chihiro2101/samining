@@ -1,0 +1,4 @@
+Software architectures used in this repository:
+1. AADL (Architecture Analysis and Design Language) - Used as the input language for software architecture descriptions.
+2. OCRA (OCRA Input Language) - Used as the output language for software architecture descriptions.
+3. OSATE (Open Source AADL Tool Environment) - Used as the platform for developing plugins for converting AADL to OCRA.

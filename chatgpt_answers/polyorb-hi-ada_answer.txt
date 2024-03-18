@@ -1,0 +1,1 @@
+The software architecture used in this repository is a client-server architecture. The README file mentions that PolyORB-HI/Ada is a middleware that provides core middleware constructs. Middleware typically implements client-server architecture to facilitate communication between different components or systems.

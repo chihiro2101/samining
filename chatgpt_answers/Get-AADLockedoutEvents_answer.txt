@@ -1,0 +1,1 @@
+Based on the provided information, it appears that the software architecture used in this repository is a monolithic architecture where a single script (Get-AADLockedOutEvents.ps1) is responsible for handling the retrieval and checking of locked user events, as well as determining the duration of user lockout and when the users will be unlocked.

@@ -1,0 +1,4 @@
+The software architectures used in this repository are:
+1. AADL (Architecture Analysis and Design Language) for developing the model of the self-driving car with a focus on dynamics in Simulink.
+2. Ocarina for conducting timing analysis and safety analysis.
+3. Integration with Simulink for modeling speed.

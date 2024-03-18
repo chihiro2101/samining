@@ -1,0 +1,4 @@
+The software architectures used in this repository are:
+1. Model-View-Controller (MVC) architecture is used for organizing the codebase and separating the concerns of the application. The model represents the data structures, the view represents the UI components, and the controller acts as an intermediary between the model and view.
+2. Client-Server architecture is used for communication between the android application and Firebase Database. The client (android application) sends requests to the server (Firebase database) to retrieve or update data.
+3. Model-View-ViewModel (MVVM) architecture might be used for managing the user interface and business logic in the application, although it is not explicitly mentioned in the README file. MVVM helps in separating the UI logic from the business logic and improving the overall maintainability of the application.

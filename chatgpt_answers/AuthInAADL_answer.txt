@@ -1,0 +1,6 @@
+Based on the README file content, the software architectures used in this repository are:
+
+1. AADL (Architecture Analysis and Design Language)
+2. Resolute
+
+These are being used to model authorization in AADL.

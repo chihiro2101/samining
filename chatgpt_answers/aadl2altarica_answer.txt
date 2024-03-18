@@ -1,0 +1,5 @@
+From the README file content, it can be inferred that the software architecture used in this repository includes:
+1. AADL (Architecture Analysis and Design Language): AADL instance model is used as input for the translator feature.
+2. EMV2 Annex: EMV2 annex subclauses are part of the AADL instance model.
+3. AltaRica (version 3) model: The translator feature creates an AltaRica model from the AADL instance model.
+4. OpenAltaRica: The AltaRica model generated can be imported into OpenAltaRica for further analysis.

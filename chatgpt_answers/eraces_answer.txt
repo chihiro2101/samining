@@ -1,0 +1,10 @@
+The software architectures used in this repository are as follows:
+
+1. Behavior Models written with SCADE
+2. Architecture Models written with AADL
+
+The tools available in this repository are designed to compute complexity metrics using the above notations. The tools include:
+1. scade-metrics: a SCADE plug-in tool
+2. aadl-complexity: an OSATE plug-in
+
+These tools are used to analyze complexity in software models and suggest improvements to reduce complexity.

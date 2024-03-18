@@ -1,0 +1,5 @@
+
+
+## Software Architectures
+
+This repository uses a microservices architecture for the Mainlevée API. Each microservice is designed to handle a specific set of functionalities, promoting flexibility and scalability in the system. The API is built using RESTful principles to ensure interoperability and ease of integration with other systems. Additionally, the API follows a layered architecture, with clear separation between the presentation layer, business logic layer, and data access layer to maintain code clarity and promote code reusability. Overall, the software architecture of the Mainlevée API is focused on modularity, maintainability, and performance.

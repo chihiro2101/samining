@@ -1,0 +1,9 @@
+
+
+### Software Architectures used in this repository:
+
+1. AADL (Architecture Analysis and Design Language): AADL is used for specifying software and hardware architectures in this repository. The cheat sheet provided is designed specifically for AADLv2, indicating the use of AADL for modeling architectural designs.
+
+2. LaTeX: LaTeX files are also used in this repository for creating and editing the cheat sheet document. LaTeX is a document preparation system commonly used for technical and scientific documents.
+
+Overall, the software architectures used in this repository include AADL for modeling architectural designs and LaTeX for creating and editing documents.

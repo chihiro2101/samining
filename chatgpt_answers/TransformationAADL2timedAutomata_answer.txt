@@ -1,0 +1,5 @@
+The software architectures used in this repository are:
+1. Model-Driven Engineering (MDE) - The approach for the verification of the AADL description is based on MDE.
+2. Source Meta-model for AADL and Target Meta-model for Timed Automata - Two meta-models are defined for the transformation process.
+3. Model2Model Transformation - A transformation process that takes an AADL model and produces a corresponding timed automata model.
+4. Model2Text Transformation - A transformation process that takes a timed automata model and generates ta-format code accepted by the Uppaal toolbox.

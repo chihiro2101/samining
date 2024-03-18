@@ -1,4 +1,9 @@
 The software architectures used in this repository are:
-- Object-Oriented Architecture: The repository contains reusable AADL components that can be imported into different AADL projects.
-- Client-Server Architecture: The components in the repository can be used with Ocarina, AADL Inspector, and OSATE, acting as clients to interact with the library.
-- Model-View-Controller (MVC) Architecture: The components in the repository can be imported and used in different AADL projects, following a separation of concerns between the model (components), view (validation theorems), and controller (Ocarina, AADL Inspector, OSATE).
+
+1. AADLv2: AADLib is a library of reusable AADLv2 components.
+2. REAL: AADLib components are associated with property sets and validation theorems based on REAL. 
+
+Additionally, the repository mentions integration with the following tools:
+1. Ocarina: AADLib is recommended to be installed in conjunction with Ocarina.
+2. OSATE: AADLib can be imported as an AADL project in OSATE.
+3. AADL-Inspector: AADLib examples can be imported into AADL-Inspector through the GitHub import facility.
