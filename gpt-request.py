@@ -68,6 +68,7 @@ def read_files_in_folder(folder_path):
                 messages.append({"role": "user", "content": question})
                 completion = openai.ChatCompletion.create(model=model_id, messages=messages)
                 answer = completion.choices[0].message.content
+                print(answer)
                 file_name = file_name.split("_README.txt")[0]
                 save_answer_to_file(file_name, answer)
 
