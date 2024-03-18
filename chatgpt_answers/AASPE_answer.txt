@@ -1,0 +1,9 @@
+The software architecture used in this repository includes the following components:
+1. Attack Impact meta-model
+2. Attack Impact graphical editor
+3. Attack Tree editor meta-model
+4. Attack Tree graphical editor
+5. Bridge from Attack Impact to Attack Tree
+6. Bridge from AADL to Attack Impact
+
+These components suggest the use of a modular and structured architecture to handle security policy enforcement and safety-critical systems. The use of meta-models indicates a model-driven architecture approach to the software design. Additionally, the integration with OSATE toolset suggests a plugin-based architecture for extending the functionality of the tools. The examples and documentation provided also indicate modularity and organization in the software architecture to facilitate usage and maintenance.

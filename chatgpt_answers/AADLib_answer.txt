@@ -1,0 +1,4 @@
+The software architectures used in this repository are:
+- Object-Oriented Architecture: The repository contains reusable AADL components that can be imported into different AADL projects.
+- Client-Server Architecture: The components in the repository can be used with Ocarina, AADL Inspector, and OSATE, acting as clients to interact with the library.
+- Model-View-Controller (MVC) Architecture: The components in the repository can be imported and used in different AADL projects, following a separation of concerns between the model (components), view (validation theorems), and controller (Ocarina, AADL Inspector, OSATE).
