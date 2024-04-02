@@ -1,6 +1,6 @@
 import openai
 # Get the key from the OpenAI web site
-openai.api_key = "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"
+openai.api_key = "kafnak"
 model_id = "gpt-3.5-turbo"
 
 

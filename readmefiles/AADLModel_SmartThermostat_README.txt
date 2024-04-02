@@ -1,0 +1,2 @@
+# AADLModel_SmartThermostat
+AADL is Architecture Analysis and Description Language, designed and developed by the SAE for specification, analysis automated integration and code generation of real-time performance-critical (timing, safety, fault tolerant etc.)  distributed computer systems. The Smart Thermostat provides an additional functionality to adjust the temperature remotely through an app on the Smart Phone. It provides various benefits to the user and it also saves energy consumption compared to the regular Thermostat.

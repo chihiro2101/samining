@@ -1,0 +1,2 @@
+# AADLModel_HomeSecuritySystem
+AADL is Architecture Analysis and Description Language, deesigned and developed by the SAE for specification, analysis, automated integration and code generation of real-time performance-critical (timing, safety, schedulability, fault tolerant, security, etc.) distributed computer systems. This project contains an AADL model for Home Security System which includes the Burglar as well as Fire Alarm systems. The project also involves modules for analysis and validation of the model. 
