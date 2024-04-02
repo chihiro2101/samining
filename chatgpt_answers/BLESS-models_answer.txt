@@ -1,0 +1,1 @@
+The software architecture used in this repository is AADL (Architecture Analysis and Design Language), which is a modeling language for the design and analysis of complex real-time systems. The repository contains AADL models with BLESS behaviors, proof scripts, and correctness proofs, indicating that the software architecture being used is based on AADL.

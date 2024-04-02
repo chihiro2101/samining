@@ -1,0 +1,1 @@
+The software architecture used in this repository is AADL (Architecture Analysis and Design Language). AADL is a modeling language used to design and analyze software-intensive systems. It helps in defining the structure and behavior of the system, including components, connections, and properties.

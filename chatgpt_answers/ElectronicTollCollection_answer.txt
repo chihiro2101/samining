@@ -1,0 +1,1 @@
+The software architecture used in this repository is the AADL (Architecture Analysis & Design Language) model, which is a modeling language for describing the system architecture of complex, real-time, safety-critical systems.

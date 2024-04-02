@@ -1,0 +1,1 @@
+Based on the README file content, it appears that the software architecture used in this repository is likely based on a system that manages AADL V2.1 errata. The specific software architectures used in the repository are not explicitly mentioned.

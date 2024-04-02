@@ -1,1 +1,1 @@
-The software architecture used in this repository is AADL (Architecture Analysis and Design Language) V2.2. AADL is a modeling language used for embedded systems that allows for the specification of both hardware and software components, their properties, and their interactions. In this repository, there are AADL property sets that define properties related to the AADL V2.2 standard.
+The software architecture used in this repository is AADL (Architecture Analysis and Design Language) V2.2 Standard. The repository contains AADL property sets related to this standard.

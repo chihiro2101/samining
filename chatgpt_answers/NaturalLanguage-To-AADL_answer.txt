@@ -1,0 +1,6 @@
+The software architectures used in this repository include:
+1. Natural Language Processing for converting text into a proper compiler accepted format
+2. ANTLR4 for implementing the lexer, parser, and visitor components
+3. Java programming language for the implementation
+4. Utilization of Architecture Analysis and Design Language (AADL) for system architecture generation
+5. Implementation of a compiler for converting parsed text input into corresponding AADL code.

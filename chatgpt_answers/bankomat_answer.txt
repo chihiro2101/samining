@@ -1,1 +1,1 @@
-From the README file content, it is indicated that the software architecture used in this repository is AADL (Architectural Analysis and Design Language). The project is specifically for a bankomant/wplatomat system, and the software architecture is designed using AADL.
+In the given README file content, the software architecture used is AADL (Architecture Analysis & Design Language) for the bankomat/wplatomat project.

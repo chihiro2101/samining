@@ -1,7 +1,7 @@
-The software architecture used in this repository includes:
-1. AADL (Architecture Analysis and Design Language)
-2. OSATE toolset
-
-The tools in this repository are designed for making secure and safe safety-critical systems and provide features such as Attack Impact meta-model, Attack Tree editor, Bridge from Attack Impact to Attack Tree, and Bridge from AADL to Attack Impact. The tools can be installed using the OSATE toolset and the installation process is documented in the README file.
-
-Examples to exercise the tools are available in the `edu.cmu.aaspe.examples` project. The documentation for the tools can be accessed within the tool (OSATE help) or by browsing the related documentation project on GitHub.
+The software architecture used in this repository is as follows:
+- Model-Driven Architecture (MDA): The tools are using AADL (Architecture Analysis & Design Language) for modeling safety-critical systems.
+- Component-Based Architecture: The tools provide various components such as Attack Impact meta-model, Attack Tree editor, Bridge from Attack Impact to Attack Tree, etc.
+- Client-Server Architecture: The tools are installed on the client machine (laptop) and interact with the OSATE toolset, which can be seen as the server-side component.
+- Plugin Architecture: The tools can be installed as plugins in the OSATE toolset.
+- Layered Architecture: The tools consist of different layers such as Attack Impact meta-model, Attack Impact graphical editor, Bridge from AADL to Attack Impact, etc.
+- Repository-Based Architecture: The README file mentions different projects and repositories related to the AASPE tools, indicating a repository-based architecture approach.

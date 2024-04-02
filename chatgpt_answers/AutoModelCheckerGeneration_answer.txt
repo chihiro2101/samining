@@ -1,0 +1,11 @@
+Software Architectures Used:
+
+1. Microservices Architecture
+
+The repository utilizes a microservices architecture for building and deploying applications. This architecture involves splitting the application into smaller, independent services that can be developed, deployed, and scaled independently. This approach allows for greater flexibility, scalability, and resilience in the overall system.
+
+2. Client-Server Architecture
+
+The repository also follows a client-server architecture, where the client (front end) communicates with the server (back end) through requests and responses. This architecture helps in separating the presentation layer from the data layer, making the system more modular and easier to maintain.
+
+Overall, the use of these software architectures in the repository helps in creating a robust, scalable, and maintainable system for the thesis project.

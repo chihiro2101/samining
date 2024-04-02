@@ -1,0 +1,1 @@
+The software architecture used in this repository is AADL (Architecture Analysis and Design Language). This language is used to define architectures that comprise multiple products, and the DesignSpaceExplorer tool is used to generate instance models for specific products based on these AADL architectures.

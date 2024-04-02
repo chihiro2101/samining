@@ -1,0 +1,1 @@
+Based on the information provided in the README file, it appears that the repository contains AADL (Architecture Analysis and Design Language) models. AADL is used for defining software and system architectures, making it highly likely that the software architecture used in this repository is based on AADL models.

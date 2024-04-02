@@ -1,9 +1,1 @@
-This repository is organised into the following software architectures:
-- **Model-View-Controller (MVC):** The codebase follows the MVC architecture, where the Model represents the data and business logic, the View represents the presentation layer, and the Controller manages the communication between the Model and View.
-- **Service-Oriented Architecture (SOA):** The repository also implements SOA, where functionality is divided into reusable services that can be accessed remotely over a network.
-- **Microservices:** The codebase is structured as a collection of small, independently deployable services that work together to provide the overall functionality of the application.
-- **Event-Driven Architecture:** The system is designed to respond to events and messages produced by various components, enabling asynchronous and decoupled communication between different parts of the application.
-- **Layered Architecture:** The codebase is divided into layers that represent different levels of abstraction, such as presentation, application, domain, and infrastructure layers.
-- **Component-Based Architecture:** The application is built as a collection of reusable, self-contained components that can be easily integrated and composed to create complex systems.
-
-These software architectures help in creating a modular, scalable, and maintainable codebase that facilitates easier development, testing, and deployment of the application.
+The README file does not provide specific information about the software architectures used in the repository. It mainly focuses on the organization and structure of the repository. To determine the software architectures used, one would need to examine the code, documentation, or architecture diagrams within the repository itself.

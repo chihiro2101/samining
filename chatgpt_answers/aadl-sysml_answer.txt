@@ -1,5 +1,1 @@
-The repository contains an AADL/SysML translator with EA, indicating that two software architectures are used in this project: 
-1. AADL (Architecture Analysis & Design Language) 
-2. SysML (Systems Modeling Language) 
-
-Additionally, the use of EA (Enterprise Architect) suggests that the project may also involve the use of a modeling tool for design and analysis purposes.
+The software architecture used in this repository is likely based on the AADL (Architecture Analysis & Design Language) and SysML (Systems Modeling Language) standards. The translator in this repository is designed to convert models between AADL and SysML using Enterprise Architect (EA) software. This indicates that the software architecture involves defining, analyzing, and designing system architectures using these two modeling languages and tools.

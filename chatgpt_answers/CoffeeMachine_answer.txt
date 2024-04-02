@@ -1,0 +1,3 @@
+The software architectures used in this repository are:
+1. Monolithic architecture for the `CoffeeMachine` system, which includes components such as `CoffeeMachineSystem`, `main_controller`, `gpio_bus`, `buttons`, `signalizer`, `water_container_sensor`, `coffee_bean_container_sensor`, `milk_container_sensor`, `drink_selection_process`, and `supplies_process`.
+2. Monolithic architecture for the `CoffeeMaker` system, which includes components such as `CoffeeMakerSystem`, `coffee_controller`, `analyzer`, `heater`, `grinder`, `press`, `foamer`, `pourer`, `temp_sensor`, and `coffee_making_process`.

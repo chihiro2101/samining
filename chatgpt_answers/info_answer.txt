@@ -1,0 +1,1 @@
+Based on the information provided in the README file, the software architecture used in this repository is AADL (Architecture Analysis and Design Language). AADL is a modeling language used for specifying and analyzing the architectures of software-reliant systems.

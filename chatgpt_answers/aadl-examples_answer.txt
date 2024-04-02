@@ -1,0 +1,8 @@
+
+This repository contains examples of systems modeled using the Architecture Analysis & Design Language (AADL). AADL is a modeling language used in the design and analysis of complex, real-time, safety-critical systems.
+
+The examples in this repository showcase different aspects of AADL modeling, including component hierarchies, connections between components, communication protocols, and system behaviors. Each example is accompanied by documentation explaining the design decisions and rationale behind the model.
+
+The software architectures used in this repository include hierarchical architectures, peer-to-peer architectures, client-server architectures, and publish-subscribe architectures. These architectures are used to model the interactions between components within a system and to capture the overall structure and behavior of the system.
+
+Overall, this repository serves as a collection of AADL examples to help developers and system designers learn and understand how to model complex systems using this powerful modeling language.

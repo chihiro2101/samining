@@ -1,9 +1,3 @@
 The software architectures used in this repository are:
-
-1. Architecture Analysis and Design Language (AADL): The AADL models in this repository demonstrate basic CPS design capabilities, such as model construction, analysis (flow latency, schedulability, fault analysis), and code generation.
-
-2. Ocarina: The provided makefile can be used with Ocarina for building and processing the AADL models.
-
-3. AADL Inspector: The AADL models can be loaded in AADL Inspector for schedulability analysis using Cheddar and model simulation using Marzhin.
-
-4. OSATE: The AADL models can be imported and analyzed using OSATE, including text editing, graphical model browsing/editing, flow latency analysis, and fault analysis.
+1. AADL architecture
+2. Model-View-Controller (MVC) architecture (implicitly, through the use of OSATE for text editing and graphical model browsing/editing)

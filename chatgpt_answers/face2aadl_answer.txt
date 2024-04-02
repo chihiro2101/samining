@@ -1,1 +1,9 @@
-In this repository, the software architecture used is most likely a translation architecture, where the goal is to convert a FACE 3.0 specification to an AADL 2.2 specification. This translation architecture may involve parsing the input FACE 3.0 specification, processing the data, and generating an equivalent AADL 2.2 specification. The architecture may also include modules or components for handling different aspects of the translation process, such as handling different FACE components and mapping them to corresponding AADL components.
+This repository contains a software tool that translates FACE 3.0 models to AADL 2.2 models. 
+
+## Software Architectures Used:
+1. **FACE 3.0 Architecture**: This architecture is used to represent and model the functionalities of the FACE 3.0 standard.
+2. **AADL 2.2 Architecture**: This architecture is used to represent and model the functionalities of the AADL 2.2 standard.
+
+The tool utilizes these two software architectures to map and translate the data and functionalities between the FACE 3.0 models and the AADL 2.2 models. 
+
+Please refer to the documentation in the repository for more information on how the translation process is carried out.

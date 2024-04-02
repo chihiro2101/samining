@@ -1,7 +1,1 @@
-The software architectures used in this repository may include:
-1. AADL V3 concepts
-2. Presentations 
-3. Issues tracker
-4. Wiki
-
-These architectures suggest that the repository may be utilizing the AADL V3 language for modeling and designing software systems, organizing presentations for discussion, tracking issues related to AADL V3, and leveraging a Wiki for additional resources.
+This repository appears to contain an experimental AADL V3 Grammar. Based on the information provided in the README file, it is likely that the software architecture used in this repository is based on the Architecture Analysis and Design Language (AADL). AADL is a modeling language used for describing the architecture of embedded systems and real-time systems.

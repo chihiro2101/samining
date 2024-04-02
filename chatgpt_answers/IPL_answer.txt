@@ -1,0 +1,13 @@
+The software architectures used in this repository include the following:
+
+1. Eclipse Modeling Framework (EMF): EMF is used for building tools and other applications based on a structured data model. 
+
+2. Xtext SDK: Xtext is used for developing programming languages and domain-specific languages.
+
+3. OSATE: OSATE (Open Source AADL Tool Environment) is an open-source platform used for analyzing and verifying critical systems.
+
+4. Prism: Prism is a model checker used for formal verification of systems.
+
+5. AADL (Architecture Analysis & Design Language): AADL is used for modeling and analyzing the architecture of complex real-time systems.
+
+Overall, the repository seems to incorporate a combination of different software architectures such as modeling tools, languages, and verification tools to support the integration property language developed for multiple models.

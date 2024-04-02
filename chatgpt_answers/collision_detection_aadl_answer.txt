@@ -1,7 +1,1 @@
-1. The software architecture used in this repository is AADL (Architecture Analysis and Design Language). 
-
-2. The repository contains a model of a collision prevention system designed for use in a telematics architecture. 
-
-3. The collision prevention system is likely designed using a layered architecture, with different components interacting to detect and prevent collisions. 
-
-4. The use of AADL suggests that the design of this system includes a focus on system architecture, component interactions, and system analysis.
+The software architecture used in this repository is AADL (Architecture Analysis and Design Language). It specifically includes a collision prevention system designed for use in a telematics architecture.

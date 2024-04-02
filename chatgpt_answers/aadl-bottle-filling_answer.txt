@@ -1,0 +1,16 @@
+The software architectures used in this repository include:
+
+1. **Main Processor handling the entire system** - The main processor architecture is utilized to handle the operation of the entire filling station.
+
+2. **Main Bus connecting all devices to the processor** - The main bus architecture is used to connect all devices to the main processor and facilitate communication between them.
+
+3. **Main Process managing the operation of the entire filling station** - The main process architecture is employed to manage the operation of the bottling station, with all devices connected to this main process.
+
+4. **Threads** including:
+    - **Water Analysis Thread** - A thread processing data from the water pipe, filter, and water quality sensor.
+    - **Filling Thread** - A thread processing data from the bottling sensor and water analysis thread.
+    - **Operator Thread** - Processes input from the operator interface.
+    - **Conveyor Belt Thread** - Processes information received from the conveyor belt.
+    - **Control Thread** - Receives information from all other threads and makes the final decision on activating the valves and starting the conveyor belt.
+
+These software architectures in the repository help in modeling and simulating the water bottling station system effectively.

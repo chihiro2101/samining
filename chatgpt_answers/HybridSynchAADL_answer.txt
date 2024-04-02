@@ -1,1 +1,3 @@
-The software architecture used in this repository is a hybrid architecture that combines aspects of synchronous programming and formal analysis. The models in the repository are given formal semantics and analyzed using Maude with SMT solving. This allows for representing advanced control programs and communication features in Maude while capturing timing uncertainties and continuous behaviors symbolically with SMT solving.
+Software architectures used in this repository are:
+1. HybridSynchAADL modeling language
+2. Maude with SMT solving

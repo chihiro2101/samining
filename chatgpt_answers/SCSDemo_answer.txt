@@ -1,0 +1,1 @@
+The software architectures used in this repository are likely based on AADL (Architecture Analysis and Design Language) models. AADL is a modeling language used for specifying the architecture of real-time, embedded systems. The repository likely contains AADL models for the System Communication System (SCS) and may include multiple updates to these models.

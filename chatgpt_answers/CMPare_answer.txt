@@ -1,0 +1,7 @@
+1. Software architecture used in this repository: AADL (Architecture Analysis and Design Language) 
+
+2. Description: The project involves architecture modeling using AADL, an architectural description language. 
+
+3. Collaborators: Sevim and author (not explicitly stated, but implied by "Sevim and I will work on the AADL project") 
+
+Overall, the software architecture used in this repository is AADL for architecture modeling.

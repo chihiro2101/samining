@@ -1,0 +1,1 @@
+From the README file content, the software architecture used in this repository is AADL (Architecture Analysis and Design Language).

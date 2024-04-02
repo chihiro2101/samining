@@ -1,0 +1,10 @@
+The software architectures used in this repository are:
+1. Microsoft Azure Active Directory
+2. Log Analytics Workspace
+3. Azure Monitor Workbooks
+
+The Azure AD Workbook fork for combining interactive and non-interactive logs utilizes these software architectures for monitoring and analyzing legacy authentication sign-ins. The repository includes a modified workbook.json file that is deployed in Azure Monitor Workbooks to visualize and analyze the combined log data from both interactive and non-interactive sign-ins. 
+
+The deployment process involves editing the workbook.json file with the appropriate log analytics workspace information, creating a new workbook in Azure Monitor, selecting the code editor, pasting the contents of the updated workbook.json file, and viewing the template to display the sign-in details. 
+
+This repository serves as a tool for monitoring and analyzing Azure AD legacy authentication sign-ins using the specified software architectures.

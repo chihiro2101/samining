@@ -1,0 +1,4 @@
+Software Architectures used in this repository:
+1. TempControlAADL
+
+Based on the title of the repository, it appears that the software architecture being used is the AADL (Architecture Analysis and Design Language). AADL is a modeling language used for specifying, analyzing, and deploying embedded software systems. It allows for the description of system architectures, including components, connections, and properties, to ensure system reliability, safety, and performance.

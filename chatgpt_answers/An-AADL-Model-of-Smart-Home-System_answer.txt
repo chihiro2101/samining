@@ -1,0 +1,2 @@
+Software architectures used in this repository:
+- AADL (Architecture Analysis & Design Language) Model

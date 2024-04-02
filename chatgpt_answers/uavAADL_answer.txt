@@ -1,0 +1,1 @@
+Based on the README file content, the software architecture used in this repository is the uavAADL architecture.

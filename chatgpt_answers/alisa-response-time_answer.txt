@@ -1,0 +1,1 @@
+As per the README file content of the repository, the software architecture used is AADL (Architecture Analysis and Design Language). The integration issues between Alisa and latency analyses are being illustrated using AADL models in Osate for this repository. The AADL models and integration with Alisa are a part of the software architecture being worked on in this repository.

@@ -1,9 +1,9 @@
 The software architectures used in this repository are:
-
-1. **Modeling Tool:** The use of an open-source tool **OSATE 2.2.1** for AADL modeling.
+1. **Modeling Tool:** The project uses an open-source tool OSATE for the AADL modeling, which supports discrete and continuous behavior modeling through the BLESS plugin.
    
-2. **Model Translation Tool:** Developed using JAVA, consists of an XMI parser, translator, and NPTA model generator components.
-
-3. **Evaluation Tool:** Utilizes the statistical model checker **UPPAAL-SMC** for quantitative evaluation.
-
-These three components together form the tool-chain for the quantitative evaluation of Uncertain Hybrid AADL designs.
+2. **Model Translation Tool:** The model translation tool is developed using Java and consists of three key parts: 
+   i) XMI parser
+   ii) Translator for one-to-one mapping
+   iii) NPTA model generator.
+   
+3. **Evaluation Tool:** The project uses the statistical model checker UPPAAL-SMC for the quantitative evaluation of the translated NPTA models.

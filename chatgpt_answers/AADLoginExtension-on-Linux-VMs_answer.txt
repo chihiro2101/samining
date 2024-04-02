@@ -1,0 +1,1 @@
+This repository does not explicitly mention any specific software architectures used. It seems to be focused on providing a script to test the AADLoginExtension installation on Linux VMs. The software architectures involved in the AADLoginExtension itself would depend on the implementation details of that extension, which are not specified in the README file provided.

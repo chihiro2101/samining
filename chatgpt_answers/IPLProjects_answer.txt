@@ -1,0 +1,6 @@
+The software architectures used in this repository are:
+1. Model-View-Controller (MVC) architecture:
+   - The IPLRobotProp directory includes aadl views for the mobile robot case study, model files for MDPs and map model, and performance data and logs for performance analysis.
+   - The IPLTest directory includes prism models in the model directory and aadl tests with views in the src directory.
+2. Standalone architecture:
+   - The IPLTest directory also includes tests without views in the standalone directory.

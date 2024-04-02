@@ -1,0 +1,1 @@
+Based on the content of the README file, it indicates that the software architecture used in this repository is likely the "Flutter architecture", which is a reactive, modern framework that follows a component-based architecture for building mobile applications. The Flutter architecture typically involves widgets, state management, and a reactive programming approach.

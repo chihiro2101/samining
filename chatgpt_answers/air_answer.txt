@@ -1,0 +1,4 @@
+Software architectures used in this repository:
+- AADL IR in Slang: This repository provides an Intermediate Representation (IR) in Slang for AADL instance models.
+- JSON: The repository may include JSON as a format for data exchange or configuration.
+- MessagePack: The repository may utilize MessagePack, a binary serialization format, for efficient data storage and transmission.

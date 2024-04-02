@@ -1,0 +1,7 @@
+In this README file, the developer mentions that they are currently working with netcore, c#, blazor, and tailwind for building digital products. Additionally, they also mention working with legacy systems in vb6 and cr. 
+
+Based on this information, the software architectures used in this repository may include:
+1. .NET Core architecture for developing applications using netcore and C#
+2. Blazor architecture for building interactive web applications
+3. Tailwind CSS architecture for styling and design
+4. Legacy system architecture for maintaining and possibly modernizing vb6 and Crystal Reports applications.

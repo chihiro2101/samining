@@ -1,0 +1,1 @@
+Based on the provided README file, it does not explicitly mention the software architectures used in this repository. It primarily focuses on capturing errata and discussions related to the AADL Error Model V2 annex language. Further examination of the code and documentation within the repository would be needed to determine the specific software architectures utilized.

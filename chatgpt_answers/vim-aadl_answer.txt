@@ -1,0 +1,1 @@
+The software architecture used in this repository is likely a plugin-based architecture, where the aadl syntax highlighting and indention functionalities are implemented as separate plugins that can be installed and managed using plugin managers like pathogen or vundle. This architecture allows for modularity and easy integration of additional features or updates.

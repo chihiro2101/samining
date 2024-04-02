@@ -1,0 +1,1 @@
+From the README file content, it seems that the software architecture used in this repository is serverless architecture. The cloud function mentioned implies that the software is designed to run on serverless platforms like AWS Lambda, Google Cloud Functions, or Azure Functions, where the code is executed in response to events and does not require traditional server management.
