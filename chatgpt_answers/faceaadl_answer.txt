@@ -1,1 +1,0 @@
-Based on the README file content, it appears that the software architecture used in the repository is AADL (Architecture Analysis and Design Language) for the FACE (Future Airborne Capability Environment) Annex. AADL is a modeling language used for designing embedded systems and specifying system architectures.

@@ -1,6 +1,1 @@
-The software architectures used in this repository are:
-1. ReliabilityProperties - This function is used to get the Reliability attribute in Java properties.
-2. Line2CertainString - This function is used to judge if a line satisfies some rules and returns a certain string.
-3. Main function - This function adds special reliability or real-time attributes to the AADL file based on the string returned by Line2CertainString. 
-
-These software architectures involve using functions to handle different aspects of adding reliability and real-time attributes to AADL files.
+Component-based architecture

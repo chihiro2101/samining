@@ -1,1 +1,0 @@
-This repository is using a containerized architecture, specifically Docker, and is based on aadl/cups. The repository also includes Canon UFR drivers for use within the Docker container.

@@ -1,5 +1,0 @@
-The TicketMachine_AADLProject repository contains the following software architectures:
-
-1. AADL (Architecture Analysis & Design Language): The project likely utilizes AADL for modeling and analyzing the architecture of the Ticket Machine software. AADL is commonly used for modeling real-time, safety-critical systems and ensuring that the system architecture meets the desired requirements.
-
-Overall, the repository likely focuses on designing and analyzing the architecture of the Ticket Machine software using the AADL modeling language.

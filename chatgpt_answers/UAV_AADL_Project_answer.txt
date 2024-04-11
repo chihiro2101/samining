@@ -1,6 +1,0 @@
-This repository contains a project focused on the development of an Unmanned Aerial Vehicle (UAV) using the Architecture Analysis and Design Language (AADL). The main goal of this project is to model the software architecture of the UAV system and analyze its behavior using AADL.
-
-Software architectures used in this repository:
-1. AADL (Architecture Analysis and Design Language) - A modeling language used for describing the software architecture of complex, real-time, safety-critical systems.
-
-By utilizing AADL, the project aims to provide a formal and precise representation of the UAV system's architecture, allowing for thorough analysis and verification of its behavior.

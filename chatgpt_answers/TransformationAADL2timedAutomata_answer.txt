@@ -1,6 +1,1 @@
-The software architectures used in this repository are:
-- Model Driven Engineering (MDE)
-- Source meta-model for AADL
-- Target meta-model for timed automata formalism
-- Model2Model transformation
-- Model2Text transformation
+Model Driven Architecture, Model2Model transformation, Model2Text transformation

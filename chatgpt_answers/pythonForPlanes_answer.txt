@@ -1,9 +1,1 @@
-The software architectures used in this repository are:
-
-1. Build Routines: 
-   - python_inplace_build
-   - python_sphinx
-   - tec360_macro
-   - LaTeX_dvi
-
-These build routines are used for compiling, building, and executing different types of scripts and files such as Python packages, Sphinx websites, Tecplot360 macros, and LaTeX files.
+None

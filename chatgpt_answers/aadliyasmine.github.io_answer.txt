@@ -1,1 +1,0 @@
-The README file content does not provide information on the software architectures used in the repository. To determine the software architectures used in the repository, one would need to review the code, documentation, or any architectural diagrams provided within the repository itself.

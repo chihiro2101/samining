@@ -1,1 +1,1 @@
-From the README file, it seems that the software architecture used in this repository is not specifically mentioned. The focus of the repository appears to be on teaching spatial awareness through Python scripts using the turtle module for developing video games for youngsters. The README file mainly provides information about the AADL programming class, legal permissions, and contact details. It does not directly indicate the specific software architectures used in the scripts.
+N/A

@@ -1,1 +1,1 @@
-In the README file, it is mentioned that the repository is for projects done on the OSATE platform using the AADL modeling language. Based on this information, the software architecture used in this repository is likely to be based on the AADL (Architecture Analysis and Design Language) modeling language. AADL is a modeling language that is used for describing the architecture of complex, real-time, safety-critical systems. It is commonly used in the aerospace and defense industries for designing and analyzing system architectures.
+software architecture

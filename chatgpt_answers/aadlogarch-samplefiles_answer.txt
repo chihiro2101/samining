@@ -1,1 +1,0 @@
-The software architecture used in this repository is not explicitly mentioned in the README file.

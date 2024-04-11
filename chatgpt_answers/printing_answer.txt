@@ -1,8 +1,1 @@
-The software architecture used in this repository includes:
-1. CUPS-PDF queue: All public stations print to a single CUPS-PDF queue which integrates with the public computer session manager.
-2. Airprint: Patron services such as Airprint are provided for some printers.
-3. IP-based printing: Each printer is assigned an IP address for communication.
-4. Integration with public computer session manager: The CUPS-PDF queue integrates with the public computer session manager to handle printing requests.
-5. Model-specific setup: The repository mentions the specific models of Lexmark printers used at each location, indicating a model-specific setup.
-6. Potential fax service integration: Some printers have the capability for fax services, but it is optional.
-7. Separate printing queues for different locations: Each location has its own set of printers with specific IP addresses and services available, indicating a distributed architecture for managing printing services at different locations.
+client-server architecture, event-driven architecture

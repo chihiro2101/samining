@@ -1,1 +1,0 @@
-In the given README file content, the software architecture used is AADL (Architecture Analysis & Design Language) for the bankomat/wplatomat project.

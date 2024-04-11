@@ -1,5 +1,1 @@
-Software architectures used in this repository:
-- The software leverages EMF models as part of the architecture to describe the analysis results.
-- Java is the programming language used in developing the software.
-
-The README file does not explicitly mention any specific software architecture patterns or styles used in the repository.
+model-based architecture, OCL-based architecture, LUTE-based architecture, EMF models architecture

@@ -1,0 +1,1 @@
+layered architecture, command-query responsibility segregation (CQRS)

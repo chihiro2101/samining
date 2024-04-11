@@ -1,7 +1,1 @@
-From the content of the README file, the software architectures used in this repository are:
-
-1. AADL (Architecture Analysis and Design Language): The repository contains a script that maps FMU (Functional Mock-up Unit) to AADL package for integration into larger AADL models to simulate larger systems. AADL is used for modeling and analysis of embedded real-time systems.
-
-2. Client-Server Architecture: The script interacts with other tools or systems, such as Ocarina, for integration and simulation.
-
-Overall, the repository appears to focus on the integration and simulation of systems using AADL architecture and related tools.
+script architecture, integration architecture, compilation architecture

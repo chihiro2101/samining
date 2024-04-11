@@ -1,9 +1,1 @@
-The software architecture used in this repository is likely a combination of:
-
-1. Model-View-Controller (MVC) architecture: As this is an ASP.NET Core application, it is likely structured using the MVC design pattern where the application's components are divided into models (data), views (UI), and controllers (business logic).
-
-2. Azure Active Directory (AAD) integration architecture: The application integrates with Azure Active Directory for authentication purposes, which involves using AAD's authentication mechanisms and protocols.
-
-3. Forms Authentication architecture: The application utilizes Forms Authentication to manage user authentication and authorization within the ASP.NET Core framework.
-
-Overall, the repository's software architecture appears to be a combination of MVC architecture, AAD integration architecture, and Forms Authentication architecture.
+MVC, REST API, Azure Active Directory Integration

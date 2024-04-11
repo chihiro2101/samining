@@ -1,1 +1,1 @@
-Based on the information provided in the README file, it is not explicitly mentioned what software architectures are used in this repository. To determine the software architectures used in this repository, one would need to analyze the code and documentation provided in the repository's files.
+N/A

@@ -1,3 +1,1 @@
-The software architectures used in this repository are:
-1. Concurrent architecture for generating concurrency check in the `agree/concurrency/` directory.
-2. Linearized architecture for generating linearized versions of functions in the `agree/linearization/` directory.
+None

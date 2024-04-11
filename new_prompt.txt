@@ -1,0 +1,17 @@
+Context: You are given a README file of a repository containing information about a software project's architecture. Your task is to classify the architecture according to multiple dimensions: domain, implementation domain, and software architecture style.
+
+Prompt:
+
+1. Domain Classification:
+- Please classify the domain of the software architecture described in the README file. Is it primarily focused on e-commerce, automotive, avionics, healthcare, finance, or another domain? Provide the domain classification based on the information provided in the README file.
+
+2. Implementation Domain Classification:
+- Additionally, please classify the implementation domain of the software architecture. Is it designed for mobile app development, web app development, cloud-based applications, embedded systems, or another implementation domain? Based on the README file, determine the implementation domain of the architecture.
+
+3. Software Architecture Style Classification:
+- Finally, classify the software architecture style employed in the project. Is it following a model-view-controller (MVC) architecture, a layered architecture, a microservices architecture, a service-oriented architecture (SOA), or another architecture style? Analyze the information provided in the README file to determine the software architecture style utilized in the project.
+
+Please provide your responses to each dimension with as much detail and accuracy as possible based on the contents of the README file.
+
+"Below is the README file of a repository. Is it following a model-view-controller (MVC) architecture, a layered architecture, a microservices architecture, a service-oriented architecture (SOA), or another architecture? From the README file content, please indicate the software architectures used in this repository. Skip explanations and use a comma-separated format like this: software architecture, another software architecture, another software architecture, etc. \n" + content
+

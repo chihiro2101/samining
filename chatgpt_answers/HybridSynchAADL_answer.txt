@@ -1,3 +1,1 @@
-Software architectures used in this repository are:
-1. HybridSynchAADL modeling language
-2. Maude with SMT solving
+formal verification, symbolic representation, model-based design

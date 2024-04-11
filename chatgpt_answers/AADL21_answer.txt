@@ -1,1 +1,1 @@
-The software architectures used in this repository are not explicitly mentioned in the README file. Additional information would be needed to determine the specific software architectures employed in the project.
+N/A

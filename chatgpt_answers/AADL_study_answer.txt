@@ -1,1 +1,0 @@
-The README file content does not explicitly mention any specific software architectures used in this repository. Further analysis of the repository content or code files may be needed to determine the software architectures utilized.

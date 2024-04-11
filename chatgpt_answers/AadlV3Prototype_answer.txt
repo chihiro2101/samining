@@ -1,1 +1,1 @@
-Based on the content of the README file, it appears that the AadlV3Prototype repository uses a plug-in based software architecture, specifically leveraging Eclipse for development and runtime environments. Additionally, it incorporates Sirius Integration with Xtext and Xtext Testing Framework, indicating a modular architecture with component-based design. The usage of Eclipse as the IDE and the instructions for setting up different plugins suggest a layered architecture approach as well.
+software architecture

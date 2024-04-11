@@ -3,7 +3,6 @@ import requests
 import base64
 
 
-# Function to save README content to a text file
 def save_readme_to_file(repo_name, readme_content):
     # Creating directory if not exists
     if not os.path.exists('readmefiles'):
@@ -15,7 +14,6 @@ def save_readme_to_file(repo_name, readme_content):
         file.write(readme_content)
 
 def download_file_from_github(url, file_path, token):
-    # Extracting repository owner and name from the URL
     parts = url.split('/')
     try:
         repo_owner = parts[-2]

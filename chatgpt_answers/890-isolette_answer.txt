@@ -1,15 +1,1 @@
-From the README file content, the software architectures used in this repository include:
-
-1. Empty Isolette system type with two implementations
-2. Minimally defined Thermostat subsystem added as Isolette subcomponent
-3. Minimally defined physical devices added as Isolette subcomponents
-4. System & device interfaces defined, but left untyped
-5. System & device interfaces typed with modeled data entities
-6. Intra-system connections made among subcomponents
-7. Use of enumerated & range composite data entities
-8. Abstract Air component in role as controlled block of Isolette control loop
-9. Software for Thermostat regulating & monitoring control functionality
-10. Operator Interface with temperature settings, display & alarm devices
-11. Software for regulating & monitoring interface, mode, & failure functionality
-
-These indicate a combination of system design, data modeling, component interaction, user interface design, and software functionality in the repository.
+Component-based architecture, Model-View-Controller (MVC) architecture

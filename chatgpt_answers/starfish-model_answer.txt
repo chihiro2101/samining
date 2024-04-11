@@ -1,6 +1,1 @@
-The software architectures used in this repository are:
-1. Object Management Group (OMG) Meta Object Facility (MOF) v2.5.1 Architecture
-2. OMG XML Metadata Interchange (XMI) v2.5.1 Architecture
-3. OMG Object Constraint Language (OCL) v2.4 Architecture
-
-The library is structured in a way that conforms to the OMG MOF v2 Architecture, with a focus on meeting Complete MOF (CMOF) conformance and prioritizing Essential MOF (EMOF) conformance. The major version number of the library will remain as "0" until CMOF support is achieved.
+OMG MOF, CMOF, EMOF

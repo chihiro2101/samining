@@ -1,5 +1,1 @@
-The software architecture used in this repository is based on the AADL language (Architecture Analysis and Design Language) for specifying, analyzing, and generating code for real-time systems. The main tool provided in this repository, the AADL-to-CAmkES Translator (ACT), translates AADL models to CAmkES (Component Architecture for Mircrokernels with Extensive Security) code.
-
-The repository provides both a Command Line Version and an OSATE Version for using the tool. The Command Line Version allows building ACT's CLI, which can be run with various command line options to translate AADL models to CAmkES code.
-
-Overall, the repository leverages the AADL language as the software architecture specification language and uses CAmkES as the target architecture for generating code from AADL models.
+command-line software architecture

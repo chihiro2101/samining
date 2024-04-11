@@ -1,14 +1,1 @@
-The software architectures used in this repository are based on Docker images, each representing different Linux distributions. The Dockerfiles provided in the repository set up the environment and dependencies needed to compile Ocarina, a software tool. The architectures include:
-
-1. Alpine
-2. CentOS 7
-3. Debian 9 stable
-4. Debian 10 stable
-5. Debian testing
-6. Fedora 32
-7. Fedora Rawhide
-8. Ubuntu Xenial
-9. Ubuntu Artful
-10. Ubuntu 20.04 LTS
-
-The CentOS builds rely on GNAT GPL or Community releases, Ubuntu Xenial uses PPA/GCC for a more recent GCC version, and all other builds use the default GCC provided by the corresponding Linux distribution.
+Microservices, Client-Server

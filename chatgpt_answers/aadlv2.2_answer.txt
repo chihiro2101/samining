@@ -1,1 +1,1 @@
-The software architecture used in this repository is AADL (Architecture Analysis and Design Language) V2.2 Standard. The repository contains AADL property sets related to this standard.
+No specific software architectures mentioned in the README file.

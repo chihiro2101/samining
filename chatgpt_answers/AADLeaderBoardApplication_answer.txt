@@ -1,11 +1,1 @@
-The software architectures used in this repository for the Google Africa Scholarship Practice Project - Android Developer can be inferred from the project requirements and complexity. Common software architectures used in Android development projects include:
-
-1. Model-View-Controller (MVC): This architecture divides the application into three main components - Model (data and business logic), View (UI components), and Controller (intermediary between Model and View).
-
-2. Model-View-ViewModel (MVVM): This architecture separates business logic from the UI components using ViewModel to manage the data, allowing for better testability and maintainability.
-
-3. Model-View-Presenter (MVP): This architecture separates the presentation layer from the business logic, with the Presenter acting as an intermediary between the Model and the View.
-
-4. Clean Architecture: This architecture separates the application into different layers (domain, data, presentation) with clear boundaries and dependencies between them.
-
-It is important to note that the specific architecture used in the project might not be explicitly mentioned in the README file, but based on the project requirements and best practices for Android development, one or more of the above software architectures may have been used.
+mobile architecture

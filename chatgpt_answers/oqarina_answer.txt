@@ -1,15 +1,1 @@
-The software architecture used in this repository is a layered architecture with the following components:
-1. `examples`: Contains tutorials and examples to illustrate Oqarina.
-2. `extraction`: Wrapper to extract code and compile a binary.
-3. `src`: Coq sources for AADL mechanization.
-4. `testsuite`: Contains some tests for the extracted code.
-5. `tools`: Contains miscellaneous helper scripts for maintenance.
-
-Additionally, the repository uses certain external packages for additional functionality:
-1. `coq-json`: JSON manipulation.
-2. `coq-simple-io`: IO monad with user-definable primitive operations.
-3. `coq-ext-lib`: Additional theories for Coq.
-4. `Kruskal-Trees`: Rose tree library with proper (nested) induction principles.
-5. `PROSA scheduling library`: Library for scheduling.
-
-The repository also provides instructions on usage, including running from a makefile, working with Coq files in VSCode, compiling extracted code, and building using a Docker container. It also suggests reading materials for Coq, including books by Adam Chlipala and the Software Foundations website.
+software architecture

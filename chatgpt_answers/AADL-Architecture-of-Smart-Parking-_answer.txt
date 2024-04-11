@@ -1,1 +1,1 @@
-The README file does not mention the specific software architectures used in the repository. Additional information or examination of the repository's code and structure would be needed to identify the software architectures implemented in the Smart Parking project.
+component-based architecture

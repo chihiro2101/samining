@@ -1,1 +1,1 @@
-The software architecture used in this repository is a shell script architecture. The `build_ocarina.sh` script is written in shell language and coordinates various activities related to fetching, compiling, packaging, and testing the Ocarina software. It includes commands to configure, update, build, install, run testsuites, package, and upload archives related to Ocarina and its runtimes. The script organizes these activities using shell constructs and provides various options and scenarios to automate the process.
+shell-based architecture

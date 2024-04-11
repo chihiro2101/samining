@@ -1,1 +1,0 @@
-The README file does not specify the software architectures used in this repository.

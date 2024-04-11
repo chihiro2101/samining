@@ -1,1 +1,1 @@
-The software architectures used in this repository are AADL_gpu and AADL_cpu, as indicated by the command line arguments passed to main.py: "--AADL_gpu" and "--AADL_cpu". Additionally, the repository also includes a default mode where no specific architecture is mentioned (running "python3 main.py" without additional arguments).
+Model-View-Controller

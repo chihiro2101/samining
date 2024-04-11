@@ -1,1 +1,0 @@
-In the repository, the software architecture used is the K framework. K is a rewrite-based executable semantic framework used for designing programming languages and formal analysis of systems. The AADL (Architecture Analysis and Design Language) semantics are defined formally in K within this repository.

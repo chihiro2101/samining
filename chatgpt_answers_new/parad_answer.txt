@@ -1,0 +1,1 @@
+layered architecture, model-view-controller (MVC) architecture

@@ -1,1 +1,0 @@
-In this repository, the software architecture used is the Architecture Analysis and Design Language (AADL). This architecture is used for developing a real-time parking management system.

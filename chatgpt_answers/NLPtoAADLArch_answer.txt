@@ -1,4 +1,1 @@
-The software architectures used in this repository are:
-1. Monolithic Architecture: The project contains different components such as NLPFormatter.py, GrammarVerifier.java, Main.java, and Visitor.java, all integrated into one single program.
-2. Layered Architecture: The project seems to have a layered structure where different functionalities such as Natural Language Processing, Syntax Verification, and Code Generation are handled in separate layers or components.
-3. Event-Driven Architecture: The system appears to be event-driven as it processes the input text and generates AADL code based on certain events or triggers.
+software architecture

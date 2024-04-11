@@ -1,1 +1,1 @@
-The software architecture used in this repository is a layered architecture, with specific APIs mentioned such as RT-POSIX, RTEMS, FreeRTOS, Windows, Xenomai, and XtratuM. This suggests that the middleware is designed to work with different operating systems and real-time environments, indicating a flexible and modular architecture to support compatibility with various platforms. The use of AADL models with code generation by Ocarina also hints at a possible model-driven architecture approach in the design of the middleware.
+software architecture

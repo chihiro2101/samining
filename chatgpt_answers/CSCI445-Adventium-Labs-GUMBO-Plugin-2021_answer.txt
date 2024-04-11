@@ -1,5 +1,1 @@
-The software architectures used in this repository are Eclipse plug-in architecture and React app architecture. 
-
-1. Eclipse plug-in architecture: The README file mentions setting up the Eclipse environment, installing the OSATE tool, and installing the AGREE plugin within Eclipse. The instructions provided are specific to the Eclipse environment and demonstrate the use of Eclipse plug-ins to extend the functionality of the tool.
-
-2. React app architecture: The README file also mentions a UI Prototype that was developed using React to gather feedback from project stakeholders on appearance and workflow. This indicates the use of a React app architecture for the UI Prototype within the project.
+Eclipse Plug-in Architecture

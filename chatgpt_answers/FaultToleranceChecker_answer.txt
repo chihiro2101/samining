@@ -1,5 +1,1 @@
-The software architectures used in this repository include:
-1. Model-Based Architecture - The tool is developed for checking the property of fault tolerance of an AADL model with EMV2 annex.
-2. Client-Server Architecture - The tool may have a client-server architecture for communication between the tool and the AADL model.
-3. Layered Architecture - There may be multiple layers in the tool for different functionalities such as checking fault tolerance properties.
-4. Event-Driven Architecture - The tool may be designed to respond to events triggered by the AADL model or user actions.
+N/A

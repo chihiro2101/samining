@@ -1,2 +1,1 @@
-The repo uses the following software architectures:
-- AADL (Architecture Analysis and Design Language)
+component-based architecture, client-server architecture

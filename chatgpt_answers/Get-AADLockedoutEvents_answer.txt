@@ -1,1 +1,1 @@
-The software architecture used in this repository is likely a client-server architecture as the PowerShell script is retrieving information from another system (Azure Active Directory) and processing it locally. The script is likely the client portion of the architecture, making requests to the server (Azure Active Directory) to retrieve and analyze data.
+script-based architecture, event-driven architecture, client-server architecture
